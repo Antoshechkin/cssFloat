@@ -1,0 +1,124 @@
+body {
+  box-sizing: border-box;
+}
+h1 {
+  height: 35px;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-size: 35px;
+  line-height: 100%;
+  margin: 0;
+}
+.text {
+  height: 21px;
+  position: relative;
+}
+.sp1 {
+  width: 124px;
+  height: 17px;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0;
+  margin-right: 21px;
+  line-height: 104.5%;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 104.5%;
+  font-size: 14px;
+}
+.hr1 {
+  margin-right: 11px;
+}
+.hr2 {
+  margin: 0px 11px;
+}
+.hr3 {
+  margin-left: 11px;
+}
+.body {
+  height: 746px;
+  width: 1162px;
+  position: relative;
+  margin: 0 auto;
+}
+.header {
+  height: 101px;
+  width: 513px;
+  margin: 0 auto;
+  text-align: center;
+}
+.line {
+  border-top: 1px solid black;
+  margin: 0 auto;
+  width: 87px;
+  margin-top: 22.5px;
+  margin-bottom: 22.5px;
+}
+.images {
+  height: 645px;
+}
+.im1 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 67px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+.im2 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 67px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+.im3 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 67px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+.im4 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 67px;
+  margin-bottom: 5px;
+}
+.im5 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.im6 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.im7 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.im8 {
+  height: 284px;
+  width: 283px;
+  float: left;
+  margin-top: 5px;
+}
